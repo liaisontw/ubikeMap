@@ -1,6 +1,6 @@
 
-https://developers.google.com/maps/documentation/android-sdk/map-with-marker?hl=zh-tw
-https://developers.google.com/maps/documentation/android-sdk/map?hl=zh-tw
+# https://developers.google.com/maps/documentation/android-sdk/map-with-marker?hl=zh-tw
+# https://developers.google.com/maps/documentation/android-sdk/map?hl=zh-tw
 
 Note: for kotlin
 in MainActivity.kt
