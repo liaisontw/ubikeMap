@@ -28,5 +28,5 @@ in AndroidManifest.xml
 1. add <meta-data
    android:name="com.google.android.geo.API_KEY"
    android:value="${MAPS_API_KEY}" />
-    inside "<application> ... </application>"
+    inside "< application >" ... "</ application >"
 
